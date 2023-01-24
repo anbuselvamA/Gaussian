@@ -49,6 +49,7 @@ for i in range(n):
 ```
 
 ## Output:
+
 ![gaussian elimination](/Screenshot%20(55).png)
 
 
